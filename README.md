@@ -9,8 +9,16 @@
 
 ## About my featured repos
 
-# [py-scripts](https://github.com/adhistark222/py-scripts)
-My experimentations on python scripts.
-
-My list of projects in this repo include:
-- ## Medgraph Insight schema generation [here](https://github.com/adhistark222/py-scripts)
+<table>
+  <tr>
+    <th>Repository</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://github.com/adhistark222/py-scripts"><h4>py-scripts</h4></a></td>
+    <td>My experimentations on python scripts. 
+      <ul> My list of projects in this repo include:
+- ## Medgraph Insight schema generation <a target="_blank" href="https://github.com/adhistark222/py-scripts">here</ul>
+    </td>
+  </tr>
+</table>
