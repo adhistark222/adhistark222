@@ -7,7 +7,7 @@
 - 📫 How to reach me: contactadithyab@gmail.com
 - ⚡ Fun fact: I'm very new to the game, but I'll probably level up faster
 
-## About my featured repos
+## About my pinned repos
 
 <table>
   <tr>
@@ -17,7 +17,7 @@
   <tr>
     <td><a target="_blank" href="https://github.com/adhistark222/py-scripts"><h4>py-scripts</h4></a></td>
     <td>My experimentations on python scripts. 
-      <ul> My list of projects in this repo include:
+      <ul> My list of projects in this repo include: <br/>
 - ## Medgraph Insight schema generation <a target="_blank" href="https://github.com/adhistark222/py-scripts">here</ul>
     </td>
   </tr>
