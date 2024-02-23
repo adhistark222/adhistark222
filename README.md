@@ -18,7 +18,8 @@
     <td><a target="_blank" href="https://github.com/adhistark222/py-scripts">py-scripts<h4/></a></td>
     <td>My experimentations on python scripts. 
       <ul> My list of projects in this repo include: <br/>
-- Medgraph Insight schema generation <a target="_blank" href="https://github.com/adhistark222/py-scripts">here</ul>
+- Medgraph Insight schema generation <a target="_blank" href="https://github.com/adhistark222/py-scripts">here </a><br/>
+- Vigenere Cipher <a target="_blank" href="https://github.com/adhistark222/py-scripts">here </a></ul>
     </td>
   </tr>
 </table>
