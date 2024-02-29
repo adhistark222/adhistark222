@@ -1,7 +1,7 @@
 ### Hi there, I'm Adithya 👋
 
 - 🔭 I’m currently working on getting familiar with data mining and scripting
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning DSA and eventually plan to learn AWS architecture and design
 - 🤔 I’m looking for help with learning your experiences in software engineering 
 - 💬 Ask me about the MVP for a data viz platform I developed in MERN and my scripts 
 - 📫 How to reach me: contactadithyab@gmail.com
