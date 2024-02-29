@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on getting familiar with data mining and scripting
 - 🌱 I’m currently learning DSA and eventually plan to learn AWS architecture and design
 - 🤔 I’m looking for help with learning your experiences in software engineering 
-- 💬 Ask me about the MVP for a data viz platform I developed in MERN and my scripts 
+- 💬 Ask me about the MVP for a data viz platform I developed in MERN and my chatbot mimicMe
 - 📫 How to reach me: contactadithyab@gmail.com
 - ⚡ Fun fact: I'm very new to the game, but I'll probably level up faster
 
