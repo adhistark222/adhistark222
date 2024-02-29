@@ -16,9 +16,9 @@
     <th>Learnings</th>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://github.com/adhistark222/mimicMe">mimicMe<h4/></a></td>
+    <td><a target="_blank" href="https://github.com/adhistark222/mimicMePublic">mimicMe<h4/></a></td>
     <td>"MimicMe" is a personality-driven chatbot trained on my WhatsApp conversations.
-      <a target="_blank" href="https://github.com/adhistark222/mimicMe">here</a>
+      <a target="_blank" href="https://github.com/adhistark222/mimicMePublic">here</a>
     </td>
       <td> 
         <ul>
