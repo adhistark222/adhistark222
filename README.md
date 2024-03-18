@@ -6,7 +6,7 @@
 - 💬 Ask me about the MVP for a data viz platform I developed in MERN and my chatbot mimicMe
 - 📫 How to reach me: contactadithyab@gmail.com
 - ⚡ Fun fact: I'm very new to the game, but I'll probably level up faster
-- Currently working on: 1brc repo
+- Currently working on: 1brc repo, mimicMe Public repo.
 
 ## About my pinned repos
 
@@ -15,6 +15,19 @@
     <th>Repository</th>
     <th>Description</th>
     <th>Learnings</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://github.com/adhistark222/1brc">1 Billion Row Challenge<h4/></a></td>
+    <td>"1brc" My understanding and implementation of the original 1 billion row challenge. [https://github.com/gunnarmorling/1brc]
+      <a target="_blank" href="https://github.com/adhistark222/1brc">here</a>
+    </td>
+      <td> 
+        <ul>
+           -> Gained Insights in dealing with large datasets <br/>
+           -> Chunking up datasets <br/>
+           -> Processing the chunks parallelly using multiprocessing library for increased efficiency <br/>
+        </ul>
+      </td>
   </tr>
   <tr>
     <td><a target="_blank" href="https://github.com/adhistark222/mimicMePublic">mimicMe<h4/></a></td>
@@ -26,7 +39,8 @@
            -> Parse, cleanse, format and save formatted data as csv <br/>
            -> Train a text classification model (Naive Bayes) to predict the user based on the message content.<br/>
            -> Use the model to extract insights from data using NLP. <br/>
-           -> Implemented personality-driven chatbot.</ul>
+           -> Implemented personality-driven chatbot.
+        </ul>
       </td>
   </tr>
   <tr>
