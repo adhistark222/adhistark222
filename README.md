@@ -6,6 +6,7 @@
 - 💬 Ask me about the MVP for a data viz platform I developed in MERN and my chatbot mimicMe
 - 📫 How to reach me: contactadithyab@gmail.com
 - ⚡ Fun fact: I'm very new to the game, but I'll probably level up faster
+- 🕹️Outside work: You'll probably find me gaming for hours or watch science stuff like F1
 - Currently working on: 1brc repo, mimicMe Public repo.
 
 ## About my pinned repos
